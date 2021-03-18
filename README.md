@@ -1,1 +1,1 @@
-# avyukth-plucking-mangoes
+# plucking-mangoes
